@@ -1,6 +1,6 @@
-#NUMBER GUESSER GAME
+# NUMBER GUESSER GAME
 
-##Concept
+## Concept
 
 This simple interface consists of a small game to guess a number.
 
@@ -11,6 +11,6 @@ This simple interface consists of a small game to guess a number.
 - Notify player of the correct answer if loose.
 - Let player choose to play again.
 
-##Languages and technologies
+## Languages and technologies
 
 This mini-project has been created using **HTML, Vanilla JavaScript** and **Skeleton** CSS framework.
