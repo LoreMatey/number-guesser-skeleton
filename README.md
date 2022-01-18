@@ -1,6 +1,6 @@
 # NUMBER GUESSER GAME
 <img 
-     width="500"  
+     width="550"  
      src="https://raw.githubusercontent.com/LoreMatey/number-guesser-skeleton/main/Number-guesser.gif" 
 />
 
