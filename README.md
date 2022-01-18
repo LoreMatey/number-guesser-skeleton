@@ -1,4 +1,8 @@
 # NUMBER GUESSER GAME
+<img 
+     width="500"  
+     src="https://raw.githubusercontent.com/LoreMatey/number-guesser-skeleton/main/Number-guesser.gif" 
+/>
 
 ## Concept
 
