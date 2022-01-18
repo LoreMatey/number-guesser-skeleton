@@ -1,4 +1,4 @@
-# NUMBER GUESSER GAME
+# NUMBER GUESSER GAME 🎲
 <img 
      width="550"  
      src="https://raw.githubusercontent.com/LoreMatey/number-guesser-skeleton/main/Number-guesser.gif" 
